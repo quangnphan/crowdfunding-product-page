@@ -29,6 +29,7 @@ a {
 }
 .intro {
   background: url("images/image-hero-desktop.jpg") no-repeat;
+  background-size: contain;
   height: 500px;
   width: 100%;
 }
