@@ -483,4 +483,38 @@ button:hover {
   .alert .popup{
       width: 80%;
   }
+  .max-width .mastercraft{
+    padding: 30px 20px 20px 20px;
+  }
+  .mastercraft button{
+    padding: 10px 20px;
+  }
+  .content{
+    padding: 30px;
+  }
+  .bamboo, .black, .special{
+    padding: 30px;
+  }
+  .bamboo button,
+  .black button,
+  .special button{
+    padding: 10px 30px;
+  }
+  .active-modal .modal{
+    padding: 30px;
+  }
+  .modal-pledge,.modal-bamboo,.modal-black,.modal-special{
+    padding: 20px;
+  }
+  .modal h1{
+    font-size: 1.1rem;
+  }
+  .modal .header h1 span {
+    margin-left: 0;
+  }
+  .alert .popup{
+    padding: 20px;
+    width: 90%;
+  }
 }
+
